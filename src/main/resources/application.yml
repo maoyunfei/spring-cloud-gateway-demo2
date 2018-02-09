@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gateway-demo2
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://10.11.173.239:9999/eureka/
+
